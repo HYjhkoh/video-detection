@@ -1,0 +1,1 @@
+CUDA_VIDIBLE_DEVICE=0 python3 tools/test_temp2.py ./configs/jhkoh/ssd300_corr5_up_resize_gating4_three_norm_future.py ./work_dirs/jhkoh/ssd300_corr5_up_resize_gating4_three2_norm_future2/epoch_26.pth --out=./work_dirs/jhkoh/ssd300_corr5_up_resize_gating4_three2_norm_future2/result_26.pkl
